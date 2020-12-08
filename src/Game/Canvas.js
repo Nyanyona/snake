@@ -4,7 +4,7 @@ import { Snake, SNAKE_MOVEMENT_DIRECTION } from './Snake';
 export class Canvas {
   static #backgroundColor = '#000';
 
-  static #cellSize = 25;
+  static #cellSize = 25.5;
 
   static #color = '#fff';
 
